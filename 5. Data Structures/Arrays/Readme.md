@@ -4,7 +4,7 @@ Fő használati területe több azonos típusú adat tárolása, egy változó s
 
 Nézzük meg a [mellékelt példakódot](./Yellowroad.Array/Theory/ArrayUseCases.cs)! A két függvény ugyanazt a problémát oldja meg, de míg tömbök nélkül hat változót kell deklarálnunk és karbantartanunk, addig tömbök segítségével mindössze egyet.
 
-#### [Tömbök példányosítása](./Yellowroad.Array/Theory/Instatiation.cs)
+#### [Tömbök példányosítása](./Yellowroad.Array/Theory/Instantiation.cs)
 Tömböket többféle módon hozhatunk létre. Amire mindenképp szükségünk lesz a létrehozáshoz, az:
 - A tömb típusa
 - A hossza (hány elemet tervezünk benne tárolni)
