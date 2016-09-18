@@ -41,6 +41,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ArrayUseCases.cs" />
+    <Compile Include="Elements.cs" />
     <Compile Include="Instantiation.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
